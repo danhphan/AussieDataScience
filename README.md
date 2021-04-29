@@ -1,6 +1,11 @@
 # Project name here
 > Summary description here.
 
+## Setup environment
+
+conda create --name webscraping python=3.8
+
+
 
 This file will become your README and also the index of your documentation.
 
