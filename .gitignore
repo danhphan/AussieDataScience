@@ -140,3 +140,5 @@ checklink/cookies.txt
 .gitconfig
 
 PLAN.md
+config.py
+data/
