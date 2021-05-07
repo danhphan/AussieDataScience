@@ -1,6 +1,10 @@
 {
   "AussieDataScience": {
     "Overview": "/",
-    "module name here": "core.html"
+    "module name here": "core.html",
+    "data_collection_linkedin_job_list": "data_collection_linkedin_job_list.html",
+    "data_collection_linkedin": "data_collection_linkedin_job_detail.html",
+    "data cleaning for linkedin jobs": "data_cleaning_linkedin_jobs.html",
+    "exploratory_data_analysis": "exploratory_data_analysis.html"
   }
 }

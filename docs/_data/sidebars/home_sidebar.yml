@@ -12,6 +12,18 @@ entries:
     - output: web,pdf
       title: module name here
       url: core.html
+    - output: web,pdf
+      title: data_collection_linkedin_job_list
+      url: data_collection_linkedin_job_list.html
+    - output: web,pdf
+      title: data_collection_linkedin
+      url: data_collection_linkedin_job_detail.html
+    - output: web,pdf
+      title: data cleaning for linkedin jobs
+      url: data_cleaning_linkedin_jobs.html
+    - output: web,pdf
+      title: exploratory_data_analysis
+      url: exploratory_data_analysis.html
     output: web
     title: AussieDataScience
   output: web
