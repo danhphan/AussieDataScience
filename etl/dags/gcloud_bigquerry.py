@@ -1,1 +1,0 @@
-# Input data to gcloud using bigquerry
